@@ -5,7 +5,7 @@ export default function Home() {
     <main className="h-full">
       <div className="w-full">
         <h1 className="text-2xl text-yellow-600">
-          I am{" "}
+           we are {" "}
           <span>
             <Typewriter
               words={["a Frontend", "a Backend", "an UI", "a Photographer"]}
